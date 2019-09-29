@@ -1,2 +1,2 @@
-# Dip_web
-Projekt
+# Diplomová práce
+Test
